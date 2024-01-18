@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Border{
+    border-radius: 49% 51% 25% 75% / 30% 40% 60% 70% ;
+}
